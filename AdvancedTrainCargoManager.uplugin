@@ -1,7 +1,7 @@
 {
 	"FileVersion": 3,
 	"Version": 0,
-	"VersionName": "0.0.1",
+	"VersionName": "0.0.2",
 	"FriendlyName": "Advanced Train Cargo Manager",
 	"Description": "Set cargo and quantity per wagon for each station individually",
 	"Category": "Modding",
@@ -29,6 +29,8 @@
 			"SemVersion": "^3.12.0"
 		}
 	],
-	"SemVersion": "0.0.1",
-	"GameVersion": ">=491125"
+	"SemVersion": "0.0.2",
+	"GameVersion": ">=491125",
+	"RequiredOnRemote": true,
+	"RemoteVersionRange": "0.0.2"
 }
